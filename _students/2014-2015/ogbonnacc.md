@@ -1,7 +1,7 @@
 ---
 name: Ogbonna Christian Chukwuebuka
 country: Nigeria
-gh: "ogbonnacc"
+gh: "cogbonna@aims.edu.gh"
 ---
 
 Well, we get going.
